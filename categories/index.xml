@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My New Hugo Site</title>
-    <link>https://xiaowei.blog.github.io/categories/</link>
+    <link>https://xiaoweiwork.github.io/xiaowei.blog.github.io/categories/</link>
     <description>Recent content in Categories on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 20 May 2020 15:14:03 +0800</lastBuildDate>
     
-	<atom:link href="https://xiaowei.blog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xiaoweiwork.github.io/xiaowei.blog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>category</title>
-      <link>https://xiaowei.blog.github.io/categories/category/</link>
+      <link>https://xiaoweiwork.github.io/xiaowei.blog.github.io/categories/category/</link>
       <pubDate>Wed, 20 May 2020 15:14:03 +0800</pubDate>
       
-      <guid>https://xiaowei.blog.github.io/categories/category/</guid>
+      <guid>https://xiaoweiwork.github.io/xiaowei.blog.github.io/categories/category/</guid>
       <description></description>
     </item>
     
     <item>
       <title>subcategory</title>
-      <link>https://xiaowei.blog.github.io/categories/subcategory/</link>
+      <link>https://xiaoweiwork.github.io/xiaowei.blog.github.io/categories/subcategory/</link>
       <pubDate>Wed, 20 May 2020 15:14:03 +0800</pubDate>
       
-      <guid>https://xiaowei.blog.github.io/categories/subcategory/</guid>
+      <guid>https://xiaoweiwork.github.io/xiaowei.blog.github.io/categories/subcategory/</guid>
       <description></description>
     </item>
     
